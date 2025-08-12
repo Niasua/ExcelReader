@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36301.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelReader.Niasua", "ExcelReader.Niasua\ExcelReader.Niasua.csproj", "{FC5A380A-294F-4A1A-9306-D6081E62D679}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC5A380A-294F-4A1A-9306-D6081E62D679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC5A380A-294F-4A1A-9306-D6081E62D679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC5A380A-294F-4A1A-9306-D6081E62D679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC5A380A-294F-4A1A-9306-D6081E62D679}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD1E48D7-8452-4502-B857-156957D2E00E}
+	EndGlobalSection
+EndGlobal
